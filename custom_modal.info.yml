@@ -1,0 +1,5 @@
+name: 'Custom Modal'
+type: module
+description: 'This module creates custom modal in Drupal 8.'
+core: 8.x
+package: 'Modal'

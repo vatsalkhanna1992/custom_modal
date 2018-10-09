@@ -1,0 +1,6 @@
+modal.controller:
+  path: '/registration'
+  defaults:
+    _controller: '\Drupal\custom_modal\Controller\ModalController::modal'
+  requirements:
+    _permission: 'access content'
